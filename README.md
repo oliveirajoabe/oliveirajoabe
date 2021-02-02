@@ -1,5 +1,7 @@
 <h1 align="center">Joabe Oliveira :sunglasses:</h1>
 
+- Full Stack PHP developer at [Kionux](http://www.kionux.com.br/index)
+
 ### Social Networks:
 <p align="left">
   <a href="https://www.linkedin.com/in/joabe-oliveira-9038a51a9/" target="_blank">
