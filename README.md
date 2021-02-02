@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/joabe-oliveira-9038a51a9/" target="_blank">
     <img src="src/linkedin.svg" alt="linkedin" style="vertical-align:top margin:6px 4px">
   </a>  
+  <a href="https://www.instagram.com/jobs_oliveira/" target="_blank">
+    <img src="src/instagram.svg" alt="linkedin" style="vertical-align:top margin:6px 4px">
+  </a>
 </p>
 
 
