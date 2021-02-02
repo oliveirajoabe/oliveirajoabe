@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-## Social Networks:
-<p align="center">
+### Social Networks:
+<p align="left">
   <a href="https://www.linkedin.com/in/joabe-oliveira-9038a51a9/" target="_blank">
     <img src="src/linkedin.svg" alt="linkedin" style="vertical-align:top margin:6px 4px">
   </a>  
@@ -11,22 +11,19 @@
   </a>
 </p>
 
-## Developer Tech
-###### Frameworks
-<p align="center">
+### Developer Tech
+##### Frameworks
+<p align="left">
   <a href="#" target="_blank">
     <img src="src/bootstrap.svg" alt="bootstrap" style="vertical-align:top margin:6px 4px">
   </a>  
   <a href="#" target="_blank">
     <img src="src/jquery.svg" alt="jquery" style="vertical-align:top margin:6px 4px">
   </a>  
-  <a href="#" target="_blank">
-    <img src="src/nodejs.svg" alt="nodejs" style="vertical-align:top margin:6px 4px">
-  </a>  
 </p>
 
-###### Languages
-<p align="center">
+##### Languages
+<p align="left">
   <a href="#" target="_blank">
     <img src="src/css3.svg" alt="css3" style="vertical-align:top margin:6px 4px">
   </a>  
@@ -47,15 +44,15 @@
   </a>  
 </p>
 
-###### Services
-<p align="center">
+##### Services
+<p align="left">
   <a href="#" target="_blank">
     <img src="src/npm.svg" alt="npm" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
 
-###### Tools
-<p align="center">
+##### Tools
+<p align="left">
   <a href="#" target="_blank">
     <img src="src/visualstudio_code.svg" alt="visual studio code" style="vertical-align:top margin:6px 4px">
   </a>
