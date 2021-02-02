@@ -3,7 +3,7 @@
 
 ## My social media:
 <p align="center">
-  <a href="https://www.linkedin.com/in/joabe-oliveira-9038a51a9/">
+  <a href="https://www.linkedin.com/in/joabe-oliveira-9038a51a9/" target="_blank">
     <img src="src/linkedin.svg" alt="linkedin" style="vertical-align:top margin:6px 4px">
   </a>  
 </p>
