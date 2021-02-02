@@ -1,4 +1,5 @@
-### Hi there 👋
+# Joabe Oliveira
+
 
 
 ### Social Networks:
@@ -61,17 +62,5 @@
   </a>
 </p>
 
-<!--
-**oliveirajoabe/oliveirajoabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Views
+[![HitCount](http://hits.dwyl.com/oliveirajoabe/https://githubcom/oliveirajoabe.svg)](http://hits.dwyl.com/oliveirajoabe/https://githubcom/oliveirajoabe)
