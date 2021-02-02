@@ -66,5 +66,15 @@
   </a>
 </p>
 
+#### Professional
+<p align="left">
+  <a href="#">
+    <img src="src/gmail.svg" alt="gmail" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="src/outlook.svg" alt="outlook" style="vertical-align:top margin:6px 4px">
+  </a>
+</p>
+
 ###### Views
 [![HitCount](http://hits.dwyl.com/oliveirajoabe/https://githubcom/oliveirajoabe.svg)](http://hits.dwyl.com/oliveirajoabe/https://githubcom/oliveirajoabe)
