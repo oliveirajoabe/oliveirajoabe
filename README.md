@@ -1,6 +1,4 @@
-<h1 style="text-align: center;">Joabe Oliveira</h1>
-
-
+<h1 align="center">Joabe Oliveira :sunglasses:</h1>
 
 ### Social Networks:
 <p align="left">
