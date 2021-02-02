@@ -68,10 +68,10 @@
 
 #### Professional
 <p align="left">
-  <a href="#">
+  <a href="mailto:oliveirajoabe121@gmail.com">
     <img src="src/gmail.svg" alt="gmail" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="#">
+  <a href="mailto:oliveira_joabe@hotmail.com">
     <img src="src/outlook.svg" alt="outlook" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
