@@ -75,6 +75,3 @@
     <img src="src/outlook.svg" alt="outlook" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
-
-###### Views
-[![HitCount](http://hits.dwyl.com/oliveirajoabe/https://githubcom/oliveirajoabe.svg)](http://hits.dwyl.com/oliveirajoabe/https://githubcom/oliveirajoabe)
