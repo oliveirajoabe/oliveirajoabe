@@ -1,7 +1,7 @@
 <h1 align="center">Joabe Oliveira :sunglasses:</h1>
 
 - Full Stack PHP developer at [Kionux](http://www.kionux.com.br/index)
-- Awarded in the Robotics Competition - Modality: Pro Open Architecture - [SE2PIN](https://docs.google.com/uc?id=0B-fltNnDeOvrQkx4VDNobzNValk) - 2016
+- Awarded in the Robotics Competition - Modality: Pro Open Architecture - [SEPIN](https://docs.google.com/uc?id=0B-fltNnDeOvrQkx4VDNobzNValk) - 2016
 
 ### Social Networks:
 <p align="left">
@@ -44,13 +44,6 @@
   <a href="#">
     <img src="src/php.svg" alt="php" style="vertical-align:top margin:6px 4px">
   </a>  
-</p>
-
-##### Services
-<p align="left">
-  <a href="#">
-    <img src="src/npm.svg" alt="npm" style="vertical-align:top margin:6px 4px">
-  </a>
 </p>
 
 ##### Tools
