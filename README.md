@@ -67,9 +67,6 @@
   <a href="#">
     <img src="src/eclipse.svg" alt="eclipse" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="#">
-    <img src="src/android_studio.svg" alt="android" style="vertical-align:top margin:6px 4px">
-  </a>
 </p>
 
 #### Professional
