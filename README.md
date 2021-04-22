@@ -22,6 +22,12 @@
   <a href="#">
     <img src="src/jquery.svg" alt="jquery" style="vertical-align:top margin:6px 4px">
   </a>  
+  <a href="#">
+    <img src="src/nodejs_larger.svg" alt="nodejs" style="vertical-align:top margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="src/react.svg" alt="react" style="vertical-align:top margin:6px 4px">
+  </a>  
 </p>
 
 ##### Languages
@@ -30,7 +36,7 @@
     <img src="src/css3.svg" alt="css3" style="vertical-align:top margin:6px 4px">
   </a>  
   <a href="#">
-    <img src="src/jquery.svg" alt="jquery" style="vertical-align:top margin:6px 4px">
+    <img src="src/sass.svg" alt="sass" style="vertical-align:top margin:6px 4px">
   </a>  
   <a href="#">
     <img src="src/html.svg" alt="html" style="vertical-align:top margin:6px 4px">
@@ -44,6 +50,13 @@
   <a href="#">
     <img src="src/php.svg" alt="php" style="vertical-align:top margin:6px 4px">
   </a>  
+</p>
+
+##### Services
+<p align="left">
+  <a href="#">
+    <img src="src/npm.svg" alt="npm" style="vertical-align:top margin:6px 4px">
+  </a> 
 </p>
 
 ##### Tools
