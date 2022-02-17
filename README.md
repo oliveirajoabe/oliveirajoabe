@@ -3,6 +3,15 @@
 - Developer at [WEBJUMP](https://webjump.com.br/)
 - Awarded in the Robotics Competition - Modality: Pro Open Architecture - [SEPIN](https://docs.google.com/uc?id=0B-fltNnDeOvrQkx4VDNobzNValk) - 2016
 
+------
+<div align="center">
+  <a href="https://github.com/oliveirajoabe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveirajoabe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirajoabe&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+------
+  
 ### Social Networks:
 <p align="left">
   <a href="https://www.linkedin.com/in/joabe-oliveira-9038a51a9/" target="_blank">
