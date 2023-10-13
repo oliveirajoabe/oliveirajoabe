@@ -1,6 +1,5 @@
 <h1 align="center">Joabe Oliveira :sunglasses:</h1>
 
-- Developer at [Newtail](https://www.newtail.com.br/)
 - Awarded in the Robotics Competition - Modality: Pro Open Architecture - [SEPIN](https://docs.google.com/uc?id=0B-fltNnDeOvrQkx4VDNobzNValk) - 2016
 
 ------
